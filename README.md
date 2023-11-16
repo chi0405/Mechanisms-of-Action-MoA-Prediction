@@ -5,6 +5,11 @@ Welcome to the Mechanisms of Action (MoA) Prediction Project! This repository ho
 
 In the realm of pharmaceutical drug discovery, understanding the Mechanisms of Action (MoA) is pivotal for identifying effective treatments. This project delves into a comprehensive Exploratory Data Analysis (EDA) and establishes a baseline model for the MoA competition, employing tidy R, ggplot2, and machine learning techniques.
 ## Table of Contents
+
+## Data source
+https://www.kaggle.com/competitions/lish-moa
+
+
 [1. Introduction](#1-introduction)
 
 [2. Project Structure](#2-project-structure)
