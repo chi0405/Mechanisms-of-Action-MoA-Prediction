@@ -8,7 +8,7 @@ The project aims to classify drugs based on their biological activity, utilizing
 [1. Introduction](#1-introduction)
 [2. Project Structure](#2-project-structure)
 [3. Exploratory Data Analysis (EDA)](#3-exploratory-data-analysis-eda)
-[4. Dimensionality Reduction and Baseline Model](#-dimensionality-reduction-and-baseline-model)
+[4. Dimensionality Reduction and Baseline Model](#4-dimensionality-reduction-and-baseline-model)
 
 <a id="1-introduction"></a>
 ## 1. Introduction
@@ -25,11 +25,11 @@ The project is organized into the following main sections:
 * Reports: Any project reports or summaries can be found in the reports directory.
 
 <a id="3-exploratory-data-analysis-eda"></a>
-3. Exploratory Data Analysis (EDA)
+## 3. Exploratory Data Analysis (EDA)
 The EDA phase scrutinizes the dataset's file structure, individual feature visualizations, and interactions within and between feature sets.
 Visualization techniques unravel patterns, distributions, and potential correlations, providing valuable insights for subsequent modeling.
 
 <a id="4-dimensionality-reduction-and-baseline-model"></a>
-4. Dimensionality Reduction and Baseline Model
+## 4. Dimensionality Reduction and Baseline Model
 To handle the complexity of the dataset, dimensionality reduction techniques, particularly Principal Component Analysis (PCA), are employed.
 Following the EDA, a baseline model is constructed using Keras and tidymodels, leveraging machine learning to classify MoA responses.
