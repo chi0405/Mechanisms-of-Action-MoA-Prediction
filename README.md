@@ -6,8 +6,11 @@ The project aims to classify drugs based on their biological activity, utilizing
 
 ## Table of Contents
 [1. Introduction](#1-introduction)
+
 [2. Project Structure](#2-project-structure)
+
 [3. Exploratory Data Analysis (EDA)](#3-exploratory-data-analysis-eda)
+
 [4. Dimensionality Reduction and Baseline Model](#4-dimensionality-reduction-and-baseline-model)
 
 <a id="1-introduction"></a>
