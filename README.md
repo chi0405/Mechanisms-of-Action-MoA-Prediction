@@ -2,8 +2,8 @@
 
 ## Overview
 Welcome to the Mechanisms of Action (MoA) Prediction Project! This repository houses comprehensive explorations, analyses, and predictive modeling for the MoA competition. 
-The project aims to classify drugs based on their biological activity, utilizing a multi-label classification approach. This README provides an overview of the project structure, contents, and instructions for exploration and utilization.
 
+In the realm of pharmaceutical drug discovery, understanding the Mechanisms of Action (MoA) is pivotal for identifying effective treatments. This project delves into a comprehensive Exploratory Data Analysis (EDA) and establishes a baseline model for the MoA competition, employing tidy R, ggplot2, and machine learning techniques.
 ## Table of Contents
 [1. Introduction](#1-introduction)
 
